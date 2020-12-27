@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**aikozijlemans/aikozijlemans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Aiko Zijlemans
+```
+Founder of Sion
+Discord Bot Developer
+College Student
+Learning Programming (do not expect all to much 🤣)
+Gamer (I suck at games~)
+all-round nerd
+```
+<a href="https://top.gg/bot/681433074944442384">
+    <img src="https://top.gg/api/widget/681433074944442384.svg" alt="Sion" />
+</a>
