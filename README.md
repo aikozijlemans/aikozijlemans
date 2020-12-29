@@ -18,4 +18,6 @@ all-round nerd
 ##
 
 #### Coders rank
-<codersrank-skills-chart username="aikozijlemans"></codersrank-skills-chart>
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aikozijlemans&skills=JavaScript,Json&show-other-skills=false"
+/>
