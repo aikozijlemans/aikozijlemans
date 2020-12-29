@@ -14,10 +14,3 @@ all-round nerd
 <a href="https://top.gg/bot/681433074944442384">
     <img src="https://top.gg/api/widget/681433074944442384.svg" alt="Sion" />
 </a>
-
-##
-
-#### Coders chart
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aikozijlemans&skills=JavaScript,Json.Python&show-other-skills=true"
-/>
