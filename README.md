@@ -19,5 +19,5 @@ all-round nerd
 
 #### Coders chart
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aikozijlemans&skills=JavaScript,Json&show-other-skills=false"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=aikozijlemans&skills=JavaScript,Json.Python.PHP&show-other-skills=false"
 />
