@@ -12,7 +12,19 @@
 -----
 ### Github stats
 <p align="center">
-  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=aikozijlemans&show_icons=true&theme=synthwave"/>
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=aikozijlemans&show_icons=true&count_private=true&theme=synthwave"/>
+</p>
+
+-----
+### Github top langs
+<p align="center">
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikozijlemans&langs_count=8&count_private=true"/>
+</p>
+
+-----
+### WakaTime stats
+<p align="center">
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aikozijlemans"/>
 </p>
 
 -----
