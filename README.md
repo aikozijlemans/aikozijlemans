@@ -24,7 +24,7 @@
 -----
 ### WakaTime stats
 <p align="center">
-  <img title="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aikozijlemans"/>
+  <img title="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aikozijlemans&layout=compact"/>
 </p>
 
 -----
