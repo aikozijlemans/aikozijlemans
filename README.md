@@ -32,11 +32,8 @@
 
 <p align="center">
 	<img title="Python" src="https://i.imgur.com/kYqNRW2.png" height="40"/>
-	<img title="Rust" src="https://i.imgur.com/kou8DSj.png" height="40" hspace="10"/>
-	<img title="Flask" src="https://i.imgur.com/3PrfweW.png" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/DG1ai5x.png" alt="mysql" height="40" hspace="10"/>
  	<img src="https://i.imgur.com/2f8ghU7.png" alt="git" height="40" hspace="10"/>
-	<img src="https://i.imgur.com/wiYdaql.png" alt="ubuntu" height="40" hspace="10"/>
 	<img src="https://i.imgur.com/O1dfbU2.png" alt="docker" height="40"/>
 </p>
 
@@ -59,6 +56,8 @@
 ----------
 
 ### Sion
+<p align="center">
 <a href="https://top.gg/bot/681433074944442384">
     <img src="https://top.gg/api/widget/681433074944442384.svg" alt="Sion" />
 </a>
+</p>
