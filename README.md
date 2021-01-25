@@ -10,19 +10,19 @@
 :computer: Self taught programmer.
 
 -----
-### Github stats
+### Github Stats
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=aikozijlemans&show_icons=true&count_private=true&theme=synthwave"/>
 </p>
 
 -----
-### Github top langs
+### Github top languages
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikozijlemans&langs_count=8&count_private=true"/>
 </p>
 
 -----
-### WakaTime stats
+### WakaTime Stats
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@aikozijlemans&layout=compact"/>
 </p>
