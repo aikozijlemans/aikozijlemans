@@ -10,7 +10,7 @@
 :computer: Self taught programmer.
 
 -----
-
+### Github stats
 <p align="center">
   <img title="Stats" src="https://github-readme-stats.vercel.app/api?username=aikozijlemans&show_icons=true&theme=synthwave"/>
 </p>
