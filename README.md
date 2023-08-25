@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aikozijlemans&theme=monokai" alt="aikozijlemans" /></a> </p>
 
-- 🔭 I’m currently working on [thehighcrew.net](https://github.com/The-High-Crew/thehighcrew.net)
+- 🔭 I’m currently working on [sionteam.com](https://sionteam.com)
 
 - 🌱 I’m currently learning **Travis CI**
 
@@ -16,9 +16,7 @@
 - 📫 How to reach me **jeremy@siondevelopment.xyz**
 
 - 📄 Know about my experiences [https://profile.codersrank.io/user/aikozijlemans](https://profile.codersrank.io/user/aikozijlemans)
-
-- ⚡ Fun fact **I am gay and a furry.**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jzijlemans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jzijlemans" height="30" width="40" /></a>
