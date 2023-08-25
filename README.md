@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Travis CI**
 
-- 👨‍💻 All of my projects are available at [https://aikobuns.co.uk/cr/jeremy.php](https://aikobuns.co.uk/cr/jeremy.php)
+- 👨‍💻 All of my projects are available at [codersrank]([https://aikobuns.co.uk/cr/jeremy.php](https://profile.codersrank.io/user/aikozijlemans))
 
 - 💬 Ask me about **Javascript, Node.js, PHP or Python**
 
